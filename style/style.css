@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color:rgba(229, 84, 115, 0.10);
+}
+
+.container{
+    width: 75%;
+    max-width: 1440px;
+}
+
+.banner{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner .header-title *{
+    margin-bottom: 24px;
+}
